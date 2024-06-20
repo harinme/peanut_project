@@ -92,8 +92,8 @@ YOLO 재학습
 </h3>
 <p align=center>
  <img width=150 src=https://github.com/harinme/peanut_project/assets/152590695/63a4d7ae-70d3-48f2-bfdf-0c12188d6376">
- <img  width=360 src=https://github.com/harinme/peanut_project/assets/152590695/48b8bf0d-fde2-4158-9bb0-159d9c6b5b6c">
- <img  width=400 src=https://github.com/harinme/peanut_project/assets/152590695/09d0244a-934f-422e-af71-8cfe86a94941">
+ <img  width=350 src=https://github.com/harinme/peanut_project/assets/152590695/48b8bf0d-fde2-4158-9bb0-159d9c6b5b6c">
+ <img  width=350 src=https://github.com/harinme/peanut_project/assets/152590695/09d0244a-934f-422e-af71-8cfe86a94941">
 </p>
 
 <br>
